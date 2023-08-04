@@ -11,9 +11,9 @@ project(
 )
 
 # -- Setting environment variables --
-set(LIBRARY_NAME helloWorldSharedLibrary)
-set(EXECUTABLE_HELLO_WORLD_NAME shared_hello_world_app)
-set(EXECUTABLE_GOODBYE_WORLD_NAME shared_goodbye_world_app)
+set(LIBRARY_NAME shared_library)
+set(EXECUTABLE_HELLO_WORLD_NAME hello_world)
+set(EXECUTABLE_GOODBYE_WORLD_NAME goodbye_world)
 
 # Every subdirectories included on my project
 add_subdirectory(shared_lib)

@@ -1,4 +1,4 @@
 #pragma once
 #include <stdio.h>
 
-void goodByeWorld(char* name);
+void goodBye(char* name);

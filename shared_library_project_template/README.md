@@ -1,0 +1,3 @@
+#  Como crear un proyecto cmake con shared_library
+
+...
