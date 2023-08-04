@@ -1,5 +1,5 @@
-set(LIBRARY_SOURCES "my_lib.c")
-set(LIBRARY_HEADERS "my_lib.h")
+set(LIBRARY_SOURCES my_lib.c my_another_lib.c)
+set(LIBRARY_HEADERS my_lib.h my_another_lib.h)
 
 # Declare the library
 add_library(
