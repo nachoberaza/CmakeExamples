@@ -1,5 +1,5 @@
 #include "hello.h"
 
-void helloWorld(char* name){
+void hello(char* name){
   printf("Hello %s !!!\n", name);
 }
