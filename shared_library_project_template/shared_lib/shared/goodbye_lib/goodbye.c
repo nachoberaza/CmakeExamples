@@ -1,5 +1,5 @@
 #include "goodbye.h"
 
 void goodBye(char* name){
-    printf("GoodBye World!!!\n\n");
+    printf("GoodBye %s!!!\n\n",name);
 };
